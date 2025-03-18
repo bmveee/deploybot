@@ -1,0 +1,9 @@
+duckdb
+duckdb-engine
+sqlmodel
+sqlalchemy
+pydantic
+pytz
+mypy
+pytest
+pip
